@@ -18,6 +18,7 @@
     "homepage": "https://github.com/lishuang0503/larke-auth",
     "type": "library",
     "license": "Apache-2.0",
+    "minimum-stability":"dev"
     "authors": [
         {
             "name": "lishuang",
